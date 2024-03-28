@@ -1,0 +1,22 @@
+matrix chain multiplication
+longest common subsequence
+0/1 knap snack
+
+1.recursion
+2.memo
+3.bottom up
+
+Size of the Input:
+10,25,50,100
+
+
+analysis running time
+no of recurssion calls
+no of entries in dp table
+
+find a test case for all the three solution where top down is best.
+find a test case for all the three solution where bottom up is best.
+
+compare the efficiency of dp table for both top down and bottom up
+
+
